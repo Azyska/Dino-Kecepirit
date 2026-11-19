@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Dino Kecepirit 🦖
 
-# Run and deploy your AI Studio app
+Web-based endless runner game inspired by the classic Chrome T-Rex, built with React and TypeScript. Created as a final semester project (UAS Bahasa Inggris) featuring interactive English quizzes and dynamic seasonal themes.
 
-This contains everything you need to run your app locally.
+**Live Demo:** [dino-kecepirit.vercel.app](https://dino-kecepirit.vercel.app)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1FD8g5lSOJFkcZHyrtX1y22BSQkGLffNu
+## Features
+- **Classic Runner Mechanics:** Jump and dodge obstacles with increasing game speed.
+- **Interactive Quiz Mode:** Answer English vocabulary and grammar questions to earn points or continue playing.
+- **Seasonal Themes:** Manual theme switching (including a Spring theme with custom cactus visuals).
 
-## Run Locally
+## Tech Stack
+- React & TypeScript
+- Tailwind CSS
+- Vite
 
-**Prerequisites:**  Node.js
+## Local Setup
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Azyska/Dino-Kecepirit.git](https://github.com/Azyska/Dino-Kecepirit.git)
+   cd Dino-Kecepirit
