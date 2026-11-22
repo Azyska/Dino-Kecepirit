@@ -34,3 +34,4 @@ To run this project locally on your machine:
    ```bash
    git clone [https://github.com/Azyska/Dino-Kecepirit.git](https://github.com/Azyska/Dino-Kecepirit.git)
    cd Dino-Kecepirit
+
