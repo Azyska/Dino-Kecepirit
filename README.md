@@ -20,3 +20,4 @@ Web-based endless runner game inspired by the classic Chrome T-Rex, built with R
    ```bash
    git clone [https://github.com/Azyska/Dino-Kecepirit.git](https://github.com/Azyska/Dino-Kecepirit.git)
    cd Dino-Kecepirit
+
